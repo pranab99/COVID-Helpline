@@ -1,1 +1,136 @@
-
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Quicksand", sans-serif;
+    scroll-behavior: smooth;
+  }
+  
+  .navbar .navbar-brand {
+    padding: 10px 20px;
+    color: black;
+  }
+  
+  .navbar .nav-link {
+    color: #414141;
+  }
+  
+  .navbar .nav-link:hover {
+    color: #d84d4d;
+  }
+  
+  .navbar .nav-item {
+    padding: 10px 20px;
+  }
+  
+  .main-bg-img img {
+    width: 450px;
+    height: 400px;
+  }
+  
+  .main-home-text {
+    margin-top: 120px;
+  }
+  
+  .main-home-text h1 {
+    color: #013354;
+    font-size: 60px;
+    padding: 2px 5px;
+    font-weight: 600;
+  }
+  
+  .main-home-text h1 span {
+    color: #d84d4d;
+    
+  }
+  
+  .main-home-text h1:nth-child(2) {
+    margin-bottom: 30px;
+  }
+  
+  .main-btn a {
+    padding: 8px 10px;
+    background-color: #d84d4d;
+    color: white;
+    border-radius: 50px;
+    font-size: 18px;
+    text-decoration: none;
+  }
+  
+  .main-btn a:nth-child(2) {
+    border: 1px solid #414141;
+    background-color: white;
+    color: #414141;
+    margin-left: 10px;
+  }
+  
+  .about-us {
+    margin-top: 200px;
+  }
+  
+  .aboout-bg-img img,
+  .sysm-bg img {
+    width: 400px;
+    height: 400px;
+  }
+  
+  .map-img img {
+    width: 500px;
+    height: 300px;
+    margin-top: 50px;
+  }
+  
+  .about-texts span,
+  .sysm-main-text span {
+    color: #d84d4d;
+    font-weight: 700;
+    position: relative;
+  }
+  
+  .about-texts span::before {
+    content: "";
+    height: 2px;
+    width: 80px;
+    background-color: #d84d4d;
+    position: absolute;
+    left: -100px;
+    top: 10px;
+  }
+  
+  .about-texts h1,
+  .sysm-main-text h4 {
+    margin-top: 10px;
+    color: #013354;
+    font-size: 30px;
+    margin-bottom: 10px;
+    font-weight: 600;
+  }
+  
+  .about-texts p {
+    margin-bottom: 30px;
+  }
+  
+  .about-texts a {
+    padding: 10px 20px;
+    background-color: #d84d4d;
+    border-radius: 50px;
+    margin-right: 50px;
+    color: white;
+    text-decoration: none;
+  }
+  
+  .world a {
+    padding: 5px 25px;
+    background-color: #d84d4d;
+    border-radius: 50px;
+    font-weight: 700;
+    transition: 0.4s ease-in-out;
+    color: white;
+    text-decoration: none;
+  }
+  
+  .world a:hover {
+    color: #d84d4d;
+    background-color: black;
+  }
+  

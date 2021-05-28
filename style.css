@@ -6,8 +6,14 @@
     scroll-behavior: smooth;
   }
   
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    color: #fff;
+    background-color: #d84d4d;
+}
+
+
+
   .navbar .navbar-brand {
-    padding: 10px 20px;
     color: black;
   }
   

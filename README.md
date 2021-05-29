@@ -18,7 +18,7 @@ This Site also has information like Symptoms and Prevention of Corona and a `Cha
 ###Tools Used
 
 <p align="center">
-  <img width="40px" src="http://assets.stickpng.com/thumbs/5847f5bdcef1014c0b5e489c.png" />
+  <img width="40px" src="https://icons.iconarchive.com/icons/cornmanthe3rd/plex/256/Other-html-5-icon.png" />
   <img width="40px" src="https://img.favpng.com/9/15/14/css3-cascading-style-sheets-logo-html-png-favpng-zNceG1C3PUpjKThDUF68AN96N.jpg" />
   <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
   <img width="40px" src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" />

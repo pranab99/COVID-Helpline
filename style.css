@@ -368,3 +368,73 @@ margin-top: 3% !important;
   height: 56vh !important;
   width: 32vw !important;
 }
+
+
+@media only screen and (max-width: 572px){
+  #map1{
+    width: 120%;
+    height: 300px;
+    margin-left: -45px;
+ 
+  }
+
+  #map2{
+    width: 120% !important;
+    height: 300px !important;
+    margin-left: -45px;
+  }
+
+  .homephone{
+  
+    margin-top: 20px !important;
+    position: relative;
+    top:30% !important;
+    opacity: 0.1 !important;
+    padding-top: 10% !important;
+    z-index: -1 !important;
+    
+  }
+
+  .coro{
+  
+    opacity: 0.1 !important;
+    z-index: -1 !important;
+  }
+
+  .row img{
+    margin: 20%;
+    opacity: 0.5;
+    width: 50 vw;
+  }
+
+  .main-sprade {
+   display: flex;
+   width: 90% !important;
+   font-size:xx-small;
+  }
+
+  #sparde h4
+  {
+    font-size: larger;
+  }
+
+  .spread-card{
+    flex-wrap: wrap;
+    width: 90% !important;
+  }
+
+  #maps{
+    margin-top: 110% !important;
+  }
+
+  .row .rowsys{
+    width: 291px !important;
+    opacity: 1;
+    margin-left: -47px;
+
+  }
+  .main-btn{
+    margin-bottom: 10% !important;
+  }
+
+}

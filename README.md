@@ -1,3 +1,6 @@
+# [CovidHelpline](https://covidhelpline.study/)
+
+
 # COVID RESOUCES
 
 This website was made during HackOn 2.0 between `28th May 21 - 30th May 21`.
@@ -15,7 +18,8 @@ This Website helps to spread authentic knowlege of corona virus which includes `
 This Site also has information like Symptoms and Prevention of Corona and a `Chat Bot` for more specific queries.
 
 <br>
-### Tools Used
+
+## Tools Used
 
 <p align="center">
   <img width="40px" src="https://icons.iconarchive.com/icons/cornmanthe3rd/plex/256/Other-html-5-icon.png" />
@@ -25,6 +29,7 @@ This Site also has information like Symptoms and Prevention of Corona and a `Cha
 </p>
 
 <br>
+
 ## Project Created & Maintained By
 
 ### Pranab Das

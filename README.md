@@ -1,7 +1,6 @@
 # [CovidHelpline](https://covidhelpline.study/)
 
-
-# COVID RESOUCES
+# COVID RESOURCES
 
 This website was made during HackOn 2.0 between `28th May 21 - 30th May 21`.
 
@@ -9,7 +8,7 @@ This website was made during HackOn 2.0 between `28th May 21 - 30th May 21`.
 
 ## About this Website
 
-This Website helps to spread authentic knowlege of corona virus which includes `graphs`, `charts`, `tables` and `country-wise data` of 
+This Website helps to spread authentic knowlege of corona virus which includes `graphs`, `charts`, `tables` and `country-wise data` of
 
 - Covid Cases
 - Covid deaths
